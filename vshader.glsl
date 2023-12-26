@@ -41,5 +41,5 @@ void main()
     // Combine all transformations
     texCoord = vertexTexture;
 
-    gl_Position = projection * view * model * Translate_Matrix * ry * Inverse_Translate_Matrix * vec4(vertexPosition, 1.0);
+    gl_Position = projection * view * model * Translate_Matrix * rx * ry * rz * Inverse_Translate_Matrix * vec4(vertexPosition, 1.0);
 }

@@ -1,0 +1,55 @@
+﻿  Source.cpp
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\include\Angel.h(63,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\include\mat.h(707,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\include\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\include\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\include\mat.h(730,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\include\mat.h(732,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\include\mat.h(735,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\include\mat.h(752,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(47,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(54,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(59,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(60,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(62,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(94,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(111,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(112,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(113,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(114,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(115,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(116,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(117,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(118,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(119,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(225,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(226,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(227,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(490,42): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(491,42): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\Source.cpp(492,42): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Lab4.vcxproj -> C:\Users\youss\Downloads\3D Visualization Project (1)\workshop2\x64\Debug\Lab4.exe
